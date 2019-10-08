@@ -5,7 +5,8 @@
 
 int main(int argc, char *argv[]) {
 	
-	int i=0, meter ;
+	int i=0;
+	int meter ;
 	
 	while(i<3)
 	{
